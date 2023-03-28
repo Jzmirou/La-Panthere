@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "postbuild": "postcss ./docs/style.css -o ./docs/css/style.min.css",
+        "postbuild": "postcss ./docs/css/contact.css -o ./docs/css/contact.min.css",
         "build:home": "esbuild './src/js/home.js' './src/js/contact.js' --bundle --minify --outdir=./src/dist/js --packages=external",
         "build:contact": "esbuild app.jsx --bundle --outfile=out.js"
     },
