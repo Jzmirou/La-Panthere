@@ -22,7 +22,7 @@
 ## **Lighthouse PageSpeed Insights**
 
 \
-[![Google PageSpeeg](./images/lighthouse.svg)](https://pagespeed.web.dev/report?url=https%3A%2F%2Fjzmirou.github.io%2FOhmyFood%2F&hl=fr&form_factor=desktop)
+[![Google PageSpeeg](./images/lighthouse.svg)](https://pagespeed.web.dev/analysis/https-jzmirou-github-io-La-Panthere/r2h3pm4san?form_factor=desktop)
 
 ## **W3C Validateur**
 
